@@ -99,7 +99,7 @@
 
 					<select name="moneda">
 					    <option value="" disabled selected>Elija el Tipo de Moneda</option>
-					    <option value="MXN">GTQ</option>
+					    <option value="GTQ">GTQ</option>
 					    <option value="USD">USD</option>
 					</select>
 					<label>Tipo de Moneda</label>
@@ -157,7 +157,7 @@
 
 				    <select name="moneda" id="editar_moneda">
 				      <option value="" disabled selected>Elija el Tipo de Moneda</option>
-				      <option value="MXN">GTQ</option>
+				      <option value="GTQ">GTQ</option>
 				      <option value="USD">USD</option>
 				    </select>
 				    <label for="editar_moneda">Tipo de Moneda</label>

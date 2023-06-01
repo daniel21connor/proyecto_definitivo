@@ -99,7 +99,7 @@
 
 						<select name="moneda">
 						    <option value="" disabled selected>Elija el Tipo de Moneda</option>
-						    <option value="MXN">GTQ</option>
+						    <option value="GTQ">GTQ</option>
 						    <option value="USD">USD</option>
 						</select>
 						<label>Tipo de Moneda</label>
@@ -162,7 +162,7 @@
 
 				    <select name="moneda" id="editar_moneda">
 				      <option value="" disabled selected>Elija el Tipo de Moneda</option>
-				      <option value="MXN">GTQ</option>
+				      <option value="GTQ">GTQ</option>
 				      <option value="USD">USD</option>
 				    </select>
 				    <label for="editar_moneda">Tipo de Moneda</label>
@@ -189,7 +189,7 @@
 		</div>
 		<div class="modal-footer">
 			<center><button class="btn waves-effect waves-light" type="submit" name="action">Editar<i class="material-icons right">send</i></button></center>
-	</form>
+
 @endsection
 
 @section('footer')
